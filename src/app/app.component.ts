@@ -4,6 +4,10 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 
 import { HomePage } from '../pages/home/home';
+import { MainPage } from '../pages/main/main';
+import {SigninPage} from '../pages/signin/signin';
+import{ NuserPage } from '../pages/nuser/nuser';
+
 @Component({
   templateUrl: 'app.html'
 })
